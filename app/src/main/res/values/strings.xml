@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMSReceiver</string>
+    <string name="received">SMS recebido</string>
+</resources>
